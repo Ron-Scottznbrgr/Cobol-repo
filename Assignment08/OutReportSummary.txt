@@ -1,0 +1,57 @@
+
+
+       REPORT DATED 2023/11/27
+
+
+
+REGION: NORTHERN
+                    MALCOLM ARNOLD                          $ 12,345.67
+                    CAMILLE SAINT-SAENS                     $ 85,450.00
+                    CLAUDE DEBUSSY                          $ 37,267.00
+                    ANTONIO VIVALDI                         $ 66,660.00
+                    KARL DITTERS                            $ 30,046.00
+                    ROGER QUILTER                           $ 92,929.00
+                    PERCY GRAINGER                          $ 44,449.44
+
+
+                    TOTALS FOR THIS REGION ARE $   369,147.11
+
+
+
+REGION: SOUTHERN
+                    ANTONIO ROSETTI                         $  7,725.68
+                    JOSEF KRAUS                             $102,938.47
+                    ANTON BRUCKNER                          $ 57,483.92
+                    SIEGFRIED WAGNER                        $ 18,356.74
+                    PIOTR TCHAIKOVSKY                       $ 98,201.80
+
+
+                    TOTALS FOR THIS REGION ARE $   284,706.61
+
+
+
+REGION: EASTERN
+                    FERENC LISZT                            $ 57,653.22
+                    ANTON WEBERN                            $  9,999.99
+                    ARNOLD SCHOENBERG                       $ 73,847.56
+                    WOLFGANG MOZART                         $    657.93
+                    JOSEF HAYDN                             $ 10,412.61
+
+
+                    TOTALS FOR THIS REGION ARE $   152,571.31
+
+
+
+REGION: WESTERN
+                    JOHANNES BRAHMS                         $101,434.88
+                    CHARLES ALKAN                           $ 74,855.33
+                    CHARLES STANFORD                        $ 74,767.12
+                    FRANZ IGNAZ BECK                        $777,733.39
+                    MAURICE RAVEL                           $222,222.22
+
+
+                    TOTALS FOR THIS REGION ARE $ 1,251,012.94
+
+
+
+                    GRAND TOTAL         $    2,057,437.97
